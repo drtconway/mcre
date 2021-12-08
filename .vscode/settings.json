@@ -1,7 +1,8 @@
 {
     "cSpell.words": [
+        "MCRE",
         "Maillard"
-    ]
+    ],
     "[markdown]": {
         "editor.wordWrap": "bounded",
         "editor.wordWrapColumn": 80

@@ -1,4 +1,4 @@
-# MCRE - an editor for recipies in the modernist cuisine style
+# MCRE - an editor for recipes in the modernist cuisine style
 
 ## What is Modernist Cuisine?
 
