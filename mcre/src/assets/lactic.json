@@ -1,0 +1,89 @@
+{
+  "name": "Lactic Cheese",
+  "about": ["Lactic cheese is a simple fresh cheese. It has a lovely tart acidity, and a smooth creamy texture. A very versatile cheese, it can be used on salads, or spread like a cream cheese. It pairs excellently with avocado.", "Locally, in Australia, it is often found in supermarkets marinated in oil with herbs, and labeled as Persian Feta. This is kind of misleading, since Persian Feta is not really a thing. There are a variety of lactic and feta cheeses produced across the Middle East and Persia, and the product called \"Persian Feta\" in Australian supermarkets is really a lactic cheese not a feta at all."],
+  "steps": [
+    {
+      "ingredients": [
+        { "material": "calcium chloride", "quantity": "0.25", "unit": "tsp"},
+        { "material": "water", "quantity": "60", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Combine and set aside."
+    },
+    {
+      "ingredients": [
+        { "material": "liquid rennet", "quantity": "0.0625", "unit": "tsp"},
+        { "material": "water", "quantity": "60", "unit": "ml"}
+      ],
+      "temp": null,
+      "time": null,
+      "procedure": "Combine and set aside."
+    },
+    {
+      "ingredients": [
+        { "material": "cow's milk", "quantity": "4", "unit": "L"},
+        { "material": "mesophilic culture", "quantity": "0.125", "unit": "tsp"}
+      ],
+      "temp": "30ºC",
+      "time": "60 min",
+      "procedure": "Place milk in pot, along with calcium chloried. Using indirect heat, bring to 30ºC. Once milk has come to temperature, add mesophilic culture. All culture to rehydrate for 2 minutes, then stir through and cover. Allow to ripen for 60 minutes, maintaining the temperature at 30ºC using indirect heat."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "20ºC",
+      "time": "24 hrs",
+      "procedure": "Add rennet to milk and stir gently for up to 1 minute. Stir with an up-and-down motion to ensure the rennet is evenly distributed through the milk. Cover and leave to acidify and coagulate for 24 hours, ensuring the temperature does not drop below 20ºC."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "20ºC",
+      "time": "0-24 hrs",
+      "procedure": "After 24 hours, check to see if the curd has formed sufficiently to proceed. You can tell this by seeing if the curd has pulled away from the sides of the pot, and there is a layer of clear whey sitting above and around the curd. If this has not happened, leave for several more hours, before checking again. The process can take up to 48 hours, depending on the milk, and the temperature. Ensure the temperature does not drop below 20ºC."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "20ºC",
+      "time": "12-24 hrs",
+      "procedure": "Once the curd is well formed, gently ladle the curds into a cheesecloth lined colander. Tie the corners together, and hang the curds to drain. The length of time will depend on the firmness of the curd to begin with, and the desired texture of the finished cheese. For a strong curd, or a softer cheese, use a shorter time; for a weaker curd or a drier cheese, use a longer time. If possible, try to make sure the temperature does not drop below 20ºC, as the culture will continue to develop acidity and drive out whey."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": "20ºC",
+      "time": "24 hrs",
+      "procedure": "Place moulds on cheese mat, and spoon the drained curd into moulds. Allow to drain for 24 hours. If possible, try to make sure the temperature does not drop below 20ºC, as the culture will continue to develop acidity and drive out whey."
+    },
+    {
+      "ingredients": [
+        { "material": "cheese salt", "quantity": "1", "unit": "tsp"}
+      ],
+      "temp": null,
+      "time": "120 min",
+      "procedure": "Carefully turn the cheeses, by placing a cheese mat on top of the moulds, followed by a cheese board, then inverting the whole lot, quickly but gently. The cheeses should drop to the bottom of the mould. If they do not, give a gentle tap till they do. Remove the top cheese board and mat, and sprinkle the salt, distributing the 1tsp between the cheese, then rest for 2 hours."
+    },
+    {
+      "ingredients": [
+        { "material": "cheese salt", "quantity": "1", "unit": "tsp"}
+      ],
+      "temp": null,
+      "time": "120 min",
+      "procedure": "Carefully turn the cheeses again, using the same method as the previous step. Remove the top cheese board and mat, and sprinkle the salt, distributing the 1tsp between the cheese, then rest for 2 hours."
+    },
+    {
+      "ingredients": [
+        { "material": "", "quantity": "", "unit": ""}
+      ],
+      "temp": null,
+      "time": "24 hrs",
+      "procedure": "The cheeses can now be removed from the moulds. Place on a cheese mat and allow to dry for 24 hours at room temperature. After this period it may be eaten, or stored in a covered container in the fridge."
+    }
+  ]
+}
